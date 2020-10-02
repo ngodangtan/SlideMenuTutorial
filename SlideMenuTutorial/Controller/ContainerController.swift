@@ -88,7 +88,11 @@ class ContainerController: UIViewController {
         case .Notifications:
             print("Show Notifications")
         case .Settings:
-            print("Show Settings")
+            let controller = SettingsController()
+            controller.username = "Batman"
+            let nav = UINavigationController(rootViewController: controller)
+            nav.modalPresentationStyle = .fullScreen
+            self.present(nav, animated: true, completion: nil)
         }
     }
     

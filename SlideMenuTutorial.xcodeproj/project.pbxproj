@@ -20,6 +20,7 @@
 		D69E6D3A25246EDA0056AC50 /* HomeController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D69E6D3925246EDA0056AC50 /* HomeController.swift */; };
 		D69E6D3D25246EE40056AC50 /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D69E6D3C25246EE40056AC50 /* MenuController.swift */; };
 		D69E6D40252476C40056AC50 /* Protocols.swift in Sources */ = {isa = PBXBuildFile; fileRef = D69E6D3F252476C40056AC50 /* Protocols.swift */; };
+		D6D58CE22526D7A8007D0C6D /* SettingsController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6D58CE12526D7A8007D0C6D /* SettingsController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		D69E6D3925246EDA0056AC50 /* HomeController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeController.swift; sourceTree = "<group>"; };
 		D69E6D3C25246EE40056AC50 /* MenuController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuController.swift; sourceTree = "<group>"; };
 		D69E6D3F252476C40056AC50 /* Protocols.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Protocols.swift; sourceTree = "<group>"; };
+		D6D58CE12526D7A8007D0C6D /* SettingsController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +93,7 @@
 				D69E6D3525246ED10056AC50 /* ContainerController.swift */,
 				D69E6D3925246EDA0056AC50 /* HomeController.swift */,
 				D69E6D3C25246EE40056AC50 /* MenuController.swift */,
+				D6D58CE12526D7A8007D0C6D /* SettingsController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -195,6 +198,7 @@
 				D69E6D1D25246E5C0056AC50 /* AppDelegate.swift in Sources */,
 				D602C05E2524840B0019B6F7 /* MenuOption.swift in Sources */,
 				D69E6D40252476C40056AC50 /* Protocols.swift in Sources */,
+				D6D58CE22526D7A8007D0C6D /* SettingsController.swift in Sources */,
 				D69E6D1F25246E5C0056AC50 /* SceneDelegate.swift in Sources */,
 				D69E6D3625246ED10056AC50 /* ContainerController.swift in Sources */,
 				D602C05825247FA00019B6F7 /* MenuOptionCell.swift in Sources */,
